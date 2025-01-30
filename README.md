@@ -121,3 +121,5 @@ JavaScript (JS) is one of the most important programming languages for full-stac
 1. **Books**: "You Don’t Know JS" by Kyle Simpson
 2. **Websites**: MDN Web Docs, freeCodeCamp
 3. **Courses**: JavaScript on Codecademy, Udemy, or Coursera
+
+[My Doc File](https://docs.google.com/document/d/1NzkT_W1nx8Hq1xpn0k41hNAhSnUOCa0LXTjd12112AQ/edit?usp=sharing)
